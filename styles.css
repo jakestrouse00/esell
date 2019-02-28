@@ -1,0 +1,183 @@
+html {
+    animation: color-change-4x 8s linear 2s infinite alternate both;
+}
+
+@keyframes color-change-4x {
+    0% {
+        background: #19dcea;
+    }
+    33.3333% {
+        background: #b22cff;
+    }
+    66.666% {
+        background: #ea2222;
+    }
+    100% {
+        background: #f5be10;
+    }
+}
+
+.header-container{
+    width: 350px;
+    height: 50px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 30%;
+}
+
+#store-name{
+    position: relative;
+    top: -30px;
+    left: 35px;
+}
+
+#store-liner{
+    position: relative;
+    top: -40px;
+    width: 250px;
+    left: 35px;
+}
+
+.body-container{
+    width: 1150px;
+    height: 1000px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 3px;
+}
+
+.example-product-1{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 52px;
+    top: 150px;
+}
+
+.example-product-2{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 300px;
+    top: 150px;
+}
+
+.example-product-3{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 650px;
+    top: 150px;
+}
+
+.example-product-4{
+     width: 150px;
+     height: 275px;
+     position: absolute;
+     border: 1px solid peachpuff;
+     padding: 25px;
+     margin: 25px;
+     left: 900px;
+     top: 150px;
+ }
+
+ /* Second row of products */
+.example-product-5{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 52px;
+    top: 500px;
+}
+
+.example-product-6{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 300px;
+    top: 500px;
+}
+
+.example-product-7{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 650px;
+    top: 500px;
+}
+
+.example-product-8{
+    width: 150px;
+    height: 275px;
+    position: absolute;
+    border: 1px solid peachpuff;
+    padding: 25px;
+    margin: 25px;
+    left: 900px;
+    top: 500px;
+}
+
+.pay-button{
+    position: absolute;
+    left: 5%;
+}
+
+.header-example{
+    position: relative;
+    left: 10px;
+}
+.description-example{
+    position: relative;
+    left: 10px;
+}
+
+.product-image{
+    position: relative;
+    left: 15px;
+}
+
+.contact-info{
+    position: relative;
+    border: 1px solid peachpuff;
+    top: 900px;
+    height: 100px;
+}
+
+.discord-server{
+    position: relative;
+    left: 1075px;
+    top: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.telegram-server{
+    position: relative;
+    left: -105px;
+    top: -85px;
+
+    width: 100px;
+    height: 100px;
+}
